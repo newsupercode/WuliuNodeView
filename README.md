@@ -10,3 +10,6 @@
 
 ![image](https://raw.githubusercontent.com/nuodiehan/mygit/master/imgs/toumingdu.png)
 ![image](https://raw.githubusercontent.com/nuodiehan/mygit/master/imgs/jieping.jpg )
+
+
+参考：https://github.com/aesion/NodeProgressView
