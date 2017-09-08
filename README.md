@@ -114,7 +114,7 @@
 
 
 **第一种是全屏的dialog 的activity,滑动是自定义的TabLayout+viewpager**
-    `   <!--dialog的activity全屏-->
+  >     <!--dialog的activity全屏-->
     <style name="transcutestyle" parent="Dialog_Fullscreen">
         <item name="android:windowFrame">@android:color/transparent</item><!--边框-->
         <item name="android:windowIsFloating">true</item><!--是否浮现在activity之上-->
@@ -123,10 +123,11 @@
         <item name="android:windowBackground">@android:color/transparent</item><!--背景透明-->
         <item name="android:backgroundDimAmount">0.3</item>
         <item name="android:windowAnimationStyle">@null</item>
-    </style>`
+    </style>
 
 第二种主要是对popwindow的背景设置为高斯模糊的截屏背景
-    `  Bitmap bitmap = Bitmap.createBitmap(b, 0, statusBarHeight, width, height
+    
+>  Bitmap bitmap = Bitmap.createBitmap(b, 0, statusBarHeight, width, height
                 - statusBarHeight);
         view.destroyDrawingCache();
         bitmap = FastBlur.fastBlur(bitmap, radius);
@@ -134,5 +135,6 @@
             return bitmap;
         } else {
             return null;
-        }`
+        }
+
 这个demo参考了：https://github.com/aesion/NodeProgressView
