@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#eee">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include
+            layout="@layout/item_me_title_layout"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"></include>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="10px"
+            android:background="#F3F3F3" />
+
+
+        <include
+            layout="@layout/item_me_order_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+        </include>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="10px"
+            android:background="#F3F3F3" />
+
+        <!--<include-->
+        <!--layout="@layout/item_me_person_layout"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="220px"></include>-->
+
+        <!--<include-->
+        <!--layout="@layout/item_me_wuliu_layout"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="220px"-->
+        <!--&gt;</include>-->
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/rl_address"
+            android:layout_width="match_parent"
+            android:layout_height="220px"
+            android:background="#fff"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="28dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="12dp"
+                    android:minLines="2"
+                    android:text="物流信息"
+                    android:textColor="#333"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:background="@drawable/g_qiu" />
+
+                <ImageView
+                    android:layout_width="51dp"
+                    android:layout_height="51dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="12dp"
+                    android:background="@drawable/default_new" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="18dp"
+                    android:layout_marginRight="18dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="2017-1-14" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:minLines="2"
+                        android:text="运输中，下一张即将前往【广州天河区东路营业部 】，下一站顺德枢纽中心" />
+                </LinearLayout>
+            </LinearLayout>
+
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="10px"
+            android:background="#F3F3F3" />
+
+        <include
+            layout="@layout/item_me_wuliu"
+            android:layout_width="match_parent"
+            android:layout_height="220px"></include>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="10px"
+            android:background="#F3F3F3" />
+
+        <include
+            layout="@layout/item_bobobang"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"></include>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="10px"
+            android:background="#F3F3F3" />
+
+        <include
+            layout="@layout/item_bobobang"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"></include>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="10px"></View>
+
+        <include
+            layout="@layout/item_bobobang"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"></include>
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView><!--</LinearLayout>-->

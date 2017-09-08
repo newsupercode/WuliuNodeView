@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:id="@+id/ll_my_level"
+    android:orientation="vertical">
+
+    <com.zhy.autolayout.AutoRelativeLayout
+        android:id="@+id/me_me_order_more"
+        android:layout_width="match_parent"
+        android:layout_height="66px">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="24px"
+            android:gravity="center"
+            android:text="我的等级"
+            android:textColor="#BEBEBE"
+            android:textSize="28px" />
+    </com.zhy.autolayout.AutoRelativeLayout>
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="26px"
+        android:layout_marginBottom="13dp"
+        android:layout_marginRight="26px"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/me_level_shuoming"
+            style="@style/me_level_rg"
+            android:drawablePadding="12dp"
+            android:drawableTop="@drawable/gg_huangguan"
+            android:text="说明1"
+            android:textColor="#333"
+            android:textSize="12sp" />
+
+        <RadioButton
+            android:id="@+id/me_level_rule"
+            style="@style/me_level_rg"
+            android:layout_marginLeft="72px"
+            android:drawablePadding="12dp"
+            android:drawableTop="@drawable/g_guize"
+            android:text="说明2"
+            android:textColor="#333"
+            android:textSize="12sp" />
+        <!--<RadioButton-->
+        <!--android:id="@+id/me_wait_delgoods_rb"-->
+        <!--android:text="待发货"-->
+        <!--android:drawableTop="@drawable/g_daifahuo"-->
+        <!--style="@style/me_wait_radio_btn" />-->
+        <!--<RadioButton-->
+        <!--android:id="@+id/me_wait_putgoods_rb"-->
+        <!--android:text="待收货"-->
+        <!--android:drawableTop="@drawable/g_daishou"-->
+        <!--style="@style/me_wait_radio_btn" />-->
+        <!--<RadioButton-->
+        <!--android:id="@+id/me_wait_eva_rb"-->
+        <!--android:text="待评价"-->
+        <!--android:drawableTop="@drawable/g_daipingjia"-->
+        <!--style="@style/me_wait_radio_btn" />-->
+        <!--<RadioButton-->
+        <!--android:id="@+id/me_wait_sale_rb"-->
+        <!--android:text="退款/退货"-->
+        <!--android:drawableTop="@drawable/g_shouhou"-->
+        <!--style="@style/me_wait_radio_btn" />-->
+    </RadioGroup>
+</com.zhy.autolayout.AutoLinearLayout>

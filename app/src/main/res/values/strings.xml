@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyGit Application</string>
+    <string name="title_activity_dialog_address">DialogAddressActivity</string>
+</resources>

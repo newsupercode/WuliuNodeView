@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/me_me_order_more"
+        android:layout_width="match_parent"
+        android:layout_height="66px">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="24px"
+            android:gravity="center"
+            android:text="标题"
+            android:textColor="#BEBEBE"
+            android:textSize="28px" />
+    </RelativeLayout>
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="13dp"
+        android:layout_marginLeft="26px"
+        android:layout_marginRight="26px"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_wuliu_chaxun"
+            style="@style/me_level_rg"
+            android:drawablePadding="12dp"
+            android:drawableTop="@drawable/g_gongzhonghao"
+            android:text="子标题1"
+            android:textColor="#333"
+            android:textSize="12sp" />
+
+        <RadioButton
+            android:id="@+id/rb_chepiao_buy"
+            style="@style/me_level_rg"
+            android:layout_marginLeft="72px"
+            android:drawablePadding="12dp"
+            android:drawableTop="@drawable/g_gongzhonghao"
+            android:text="子标题2"
+            android:textColor="#333"
+            android:textSize="12sp" />
+
+        <RadioButton
+            android:id="@+id/rb_huafei"
+            style="@style/me_level_rg"
+            android:layout_marginLeft="72px"
+            android:drawablePadding="12dp"
+            android:drawableTop="@drawable/g_gongzhonghao"
+            android:text="子标题3"
+            android:textColor="#333"
+            android:textSize="12sp" />
+
+    </RadioGroup>
+
+</LinearLayout>
