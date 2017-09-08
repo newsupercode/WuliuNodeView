@@ -8,5 +8,5 @@
 
 
 
-![image](C:\Users\Administrator\Desktop\透明度.png)
-![image](C:\Users\Administrator\Desktop\截屏.png)
+![image](mygit/imgs/透明度.png )
+![image](mygit/imgs/截屏.png )
