@@ -12,4 +12,4 @@
 ![image](https://raw.githubusercontent.com/nuodiehan/mygit/master/imgs/jieping.jpg )
 
 
-参考：https://github.com/aesion/NodeProgressView
+这个demo参考了：https://github.com/aesion/NodeProgressView
