@@ -8,5 +8,5 @@
 
 
 
-![image](https://github.com/nuodiehan/mygit/imgs/透明度.png )
-![image](https://github.com/nuodiehan/mygit/imgs/截屏.png )
+![image](https://github.com/nuodiehan/mygit/imgs/toumingdu.png)
+![image](https://github.com/nuodiehan/mygit/imgs/jieping.png )
