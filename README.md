@@ -8,5 +8,5 @@
 
 
 
-![image](https://github.com/nuodiehan/mygit/imgs/toumingdu.png)
-![image](https://github.com/nuodiehan/mygit/imgs/jieping.png )
+![image](https://github.com/nuodiehan/mygit/master/imgs/toumingdu.png)
+![image](https://github.com/nuodiehan/mygit/master/imgs/jieping.png )
