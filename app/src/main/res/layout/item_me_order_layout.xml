@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical"
+    android:paddingBottom="26px">
+
+    <RelativeLayout
+        android:id="@+id/me_me_order_more"
+        android:layout_width="match_parent"
+        android:layout_height="86px">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20px"
+            android:gravity="center"
+            android:text="我的订单"
+            android:textColor="#333"
+            android:textSize="28px" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="18px"
+            android:src="@drawable/arrow1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="45px"
+            android:gravity="center"
+            android:text="查看全部订单"
+            android:textColor="#999999"
+            android:textSize="28px" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#F3F3F3">
+
+    </View>
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:drawablePadding="12px"
+            android:id="@+id/me_wait_payment_rb"
+            style="@style/me_wait_radio_btn"
+            android:drawableTop="@drawable/g_faifukuan"
+            android:text="待付款" />
+
+        <RadioButton
+            android:drawablePadding="12px"
+            android:id="@+id/me_wait_delgoods_rb"
+            style="@style/me_wait_radio_btn"
+            android:drawableTop="@drawable/g_daifahuo"
+            android:text="待发货" />
+
+        <RadioButton
+            android:drawablePadding="12px"
+            android:id="@+id/me_wait_putgoods_rb"
+            style="@style/me_wait_radio_btn"
+            android:drawableTop="@drawable/g_daishou"
+            android:text="待收货" />
+
+        <RadioButton
+            android:drawablePadding="12px"
+            android:id="@+id/me_wait_eva_rb"
+            style="@style/me_wait_radio_btn"
+            android:drawableTop="@drawable/g_daipingjia"
+            android:text="待评价" />
+
+        <RadioButton
+            android:drawablePadding="12px"
+            android:id="@+id/me_wait_sale_rb"
+            style="@style/me_wait_radio_btn"
+            android:drawableTop="@drawable/g_shouhou"
+            android:text="退款/退货" />
+    </RadioGroup>
+</LinearLayout>

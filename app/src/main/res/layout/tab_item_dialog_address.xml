@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="40dp"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <!--<com.li.newhuangjinbo.widget.GradientTextView-->
+    <!--android:id="@+id/tab_text"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:gravity="center"-->
+    <!--android:text="全部"-->
+    <!--android:textSize="16sp" />-->
+
+    <ImageView
+        android:id="@+id/iv_indicator"
+        android:layout_width="8dp"
+        android:layout_height="8dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/viewpager2"
+        android:gravity="center" />
+</LinearLayout>

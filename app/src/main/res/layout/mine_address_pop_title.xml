@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/rl_mine_address_pop_title"
+    android:layout_height="120dp"
+    android:background="@drawable/toolbar_bg"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="运输中"
+        android:textColor="#fff" />
+
+    <ImageView
+        android:id="@+id/iv_img_head"
+        android:layout_width="51dp"
+        android:layout_height="51dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="50dp"
+        android:background="@mipmap/img1" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="72dp"
+        android:layout_marginRight="43dp"
+        android:layout_marginTop="50dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="middle"
+            android:maxLines="1"
+            android:text="怪味马卡龙怪味马卡龙怪味马卡龙怪味马卡龙卡龙
+            怪味马卡龙卡龙怪味马卡龙卡龙怪味马卡龙卡龙怪味马卡龙卡龙怪味马卡龙"
+            android:textColor="#fff"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/tv_kuaidi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="申通快递"
+            android:textColor="#fff"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/tv_time_arrive"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="预计明天到达"
+            android:textColor="#fff"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/iv_arrow"
+        android:layout_width="11dp"
+        android:layout_height="19dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="12dp"
+        android:layout_marginTop="69dp"
+        android:background="@drawable/jinru" />
+
+</RelativeLayout>

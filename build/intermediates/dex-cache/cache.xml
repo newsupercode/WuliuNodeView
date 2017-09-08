@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\861e80b9ca3b52de41cfb6eba51f62c6edef43f6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\AndroidWorkSpace\MyGitApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_749c937c3e8ec9c7add7193cfcea6dfcc72c1dd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\bee9adaa292cb08c117654a29644b40f8900597b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidWorkSpace\MyGitApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6bd5fe7ae56cd3c862c5f41b3a1d3b989a080490\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\ac3acb1a356601e1de185a488e24414dbf970fbf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="D:\AndroidWorkSpace\MyGitApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69d9eeb0195acbe5c15d4849213e5ba52a67c387\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\e5acead58e8306b4f689b568594eb541f556fd6e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="D:\AndroidWorkSpace\MyGitApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_516d7a51ceff7f60b33ba3bdbe91ace78eb4c97a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\8933f20cfffcca29d2adb490643682f5a2724b2e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7c2f754db8be64abc0774dba307542af98a534d1">
+        <dex dex="D:\AndroidWorkSpace\MyGitApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28648793b3b450e1cf43ed7615ecb68c31776001\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\d73527a7f05c9b7480570fc9cdc3547d8bef781c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\AndroidWorkSpace\MyGitApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b42ec05d28701b70fd6465c2e452520a1028606\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.7.0\2637055420a2da406e3ea9920c2ff4aafd38c970\butterknife-annotations-8.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2637055420a2da406e3ea9920c2ff4aafd38c970">
+        <dex dex="D:\AndroidWorkSpace\MyGitApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.7.0_a08727af10abb325646928bdd834cfe28186a945\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\970418f4e6676b201ae156f60dd5edd36461fba2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\AndroidWorkSpace\MyGitApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b5db31e62e3abe3ddafccf87a7b307dd408bf98a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\449eb1cc7374fe8f59f94fa1fc4a81ff23cd853d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="D:\AndroidWorkSpace\MyGitApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed29059be2d154c39ce14c042d0269317629d84f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\e7a17d5003047a89a4662affd815a8b5787bd37f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\AndroidWorkSpace\MyGitApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_63cde4ec626dd9061e2ff7b2e881165d40e962c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\78437a141452925ef47651232e9dfb843d5c7e3f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\AndroidWorkSpace\MyGitApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_20b650624b8038820a59c85f6b190d7e568d4ebb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\20d6b96eb7da7aabe5d343a1297ac3886e82b8cb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\AndroidWorkSpace\MyGitApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd2ad29c2766b78fe59b2a1895c755477b57594b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidsdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\AndroidWorkSpace\MyGitApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_2f8e81490599c66fd1760533e89d3d44b74cbac1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidWorkSpace\MyGitApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70c252e01c771f661dad1bab2fd398a74ffc23b8">
+        <dex dex="D:\AndroidWorkSpace\MyGitApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7c20acb010e3fa26f571f7943722266990bff770\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\7dca2ea7a2aaba46d9613708315cf9c2e36a5d07\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\AndroidWorkSpace\MyGitApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d5209a95d84a703ae268b3f24af5bcb73ec9d172\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\0de4da5197f7f7b787b184034a89502d8042e763\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\AndroidWorkSpace\MyGitApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ba7166057287834b47286375f6d883fdef2019e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\db8bbcff6557c2cec73d16b14f7986f96f335608\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0b7d39c161cecdb6c2b52a1cdc71faf0ffd4626e">
+        <dex dex="D:\AndroidWorkSpace\MyGitApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_15c00e9d83ee968fb9a7465b80a3489068c64bfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidWorkSpace\MyGitApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\AndroidWorkSpace\MyGitApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9e345a1006bc0203e86aaee43a0c25a08ebfbe2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\e6b54021ac39ff81f09bd5b357382550d21f894c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\AndroidWorkSpace\MyGitApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8398cd9db8e2e1db8a8641c717f384b71f8c83bf\classes.dex" />
+    </item>
+
+</items>

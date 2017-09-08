@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent">#00000000</color>
+    <color name="text_color_start">#E26DFF</color>
+    <color name="text_color_end">#9B42FF</color>
+    <!--color物流-->
+    <color name="normalColor">#cccccc</color>
+    <color name="checkColor">#9B42FF</color>
+    <color name="white_text">#ffffff</color>
+    <color name="white" >#ffffff</color>
+
+
+</resources>
